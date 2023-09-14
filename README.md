@@ -23,6 +23,7 @@ if request gives you 200 OK response >
 
 else >
 
-<img width="149" alt="Screenshot 2023-09-14 at 8 25 28 AM" src="https://github.com/p474nj4y/basic-response-validator/assets/109905193/330db6c9-54c1-426a-b020-029e883b1e2c">
+<img width="300" alt="Screenshot 2023-09-14 at 8 47 54 AM" src="https://github.com/p474nj4y/basic-response-validator/assets/109905193/8fc0566d-235a-474b-9cd8-ccb1464fbca9">
+
 
 
